@@ -22,3 +22,5 @@ If the stock is unavailable, your order will not be completed.
 
 ![Out of Stock Items](/images/out-of-stock.png)
 
+##Live Demo: 
+https://youtu.be/ApdGwLY0_Kw
